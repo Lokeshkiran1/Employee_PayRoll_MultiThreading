@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\csharp\EmployeePayrollSystem\bin\Debug\net6.0\EmployeePayrollSystem.exe
+C:\Users\HP\Desktop\csharp\EmployeePayrollSystem\bin\Debug\net6.0\EmployeePayrollSystem.deps.json
+C:\Users\HP\Desktop\csharp\EmployeePayrollSystem\bin\Debug\net6.0\EmployeePayrollSystem.runtimeconfig.json
+C:\Users\HP\Desktop\csharp\EmployeePayrollSystem\bin\Debug\net6.0\EmployeePayrollSystem.dll
+C:\Users\HP\Desktop\csharp\EmployeePayrollSystem\bin\Debug\net6.0\EmployeePayrollSystem.pdb
+C:\Users\HP\Desktop\csharp\EmployeePayrollSystem\obj\Debug\net6.0\EmployeePayrollSystem.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\csharp\EmployeePayrollSystem\obj\Debug\net6.0\EmployeePayrollSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\csharp\EmployeePayrollSystem\obj\Debug\net6.0\EmployeePayrollSystem.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\csharp\EmployeePayrollSystem\obj\Debug\net6.0\EmployeePayrollSystem.AssemblyInfo.cs
+C:\Users\HP\Desktop\csharp\EmployeePayrollSystem\obj\Debug\net6.0\EmployeePayrollSystem.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\csharp\EmployeePayrollSystem\obj\Debug\net6.0\EmployeePayrollSystem.dll
+C:\Users\HP\Desktop\csharp\EmployeePayrollSystem\obj\Debug\net6.0\refint\EmployeePayrollSystem.dll
+C:\Users\HP\Desktop\csharp\EmployeePayrollSystem\obj\Debug\net6.0\EmployeePayrollSystem.pdb
+C:\Users\HP\Desktop\csharp\EmployeePayrollSystem\obj\Debug\net6.0\EmployeePayrollSystem.genruntimeconfig.cache
+C:\Users\HP\Desktop\csharp\EmployeePayrollSystem\obj\Debug\net6.0\ref\EmployeePayrollSystem.dll
